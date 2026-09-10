@@ -5,8 +5,8 @@ window.SITE = {
   videos: 236,
   photos: 418,
   avatar: "assets/avatar.jpeg",
-  liveUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
-  premiumUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
-  photosUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
-  popup: { enabled: true, brand: "", headline: "Create a free account to continue", steps: ["Create a free account","Unlock instant access","Watch private content"], button: "Create free account", url: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT" }
+  liveUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=JFL",
+  premiumUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=JFL",
+  photosUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=JFL",
+  popup: { enabled: true, brand: "", headline: "Create a free account to continue", steps: ["Create a free account","Unlock instant access","Watch private content"], button: "Create free account", url: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=JFL" }
 };
