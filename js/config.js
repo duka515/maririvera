@@ -5,23 +5,8 @@ window.SITE = {
   videos: 236,
   photos: 418,
   avatar: "assets/avatar.jpeg",
-  liveUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=JFL",
-  liveImage: "assets/popup-live.gif",
-  premiumUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=JFL",
-  premiumImage: "assets/popup-premium.gif",
-  photosUrl: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=JFL",
-  photosImage: "assets/popup-photos.gif",
-  popup: {
-    enabled: true,
-    brand: "Jerkmate",
-    headline: "Watch explicit content for FREE in",
-    steps: [
-      "1- Create a FREE Jerkmate Account",
-      "2- Get the Free Lifetime Membership",
-      "3- Enjoy thousands of models like me"
-    ],
-    image: "assets/popup-photos.gif",
-    button: "Join for Free",
-    url: "https://t.mbjrkmms.com/133986/8780/38462?aff_sub3=TC_LW9H5CT9&aff_sub5=SF_006OG00000NbNlB&aff_sub=JFL"
-  }
+  liveUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
+  premiumUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
+  photosUrl: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT",
+  popup: { enabled: true, brand: "", headline: "Create a free account to continue", steps: ["Create a free account","Unlock instant access","Watch private content"], button: "Create free account", url: "https://a.vlmjm1.com/1f6cd067-a2e7-4635-9d2a-aa73958096ed?aff_id=133986&aff_sub5=SF_006OG00000QjUHW&aff_sub=TTT" }
 };
